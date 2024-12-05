@@ -124,7 +124,7 @@ typing-extensions==3.7.4
 tzlocal==1.5.1
 unicodecsv==0.14.1
 urllib3==1.25.3
-uvicorn==0.8.6
+uvicorn==0.11.7
 uvloop==0.12.2
 virtualenv==16.7.2
 wcwidth==0.1.7
